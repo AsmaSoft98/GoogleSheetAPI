@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7f/3WtZJkfohSMd11UiHhW46Gly7qAQGGjKqPCTTg8w=",
+  "Source": "GoogleSheetApi",
+  "BasePath": "_content/GoogleSheetApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
